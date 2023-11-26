@@ -17,6 +17,10 @@
                         <p class="card-text">@item.Title</p>
                         <p class="card-text">@item.ClubCategory</p>
                         <p class="card-text">@item.Description</p>
+                        <div class="btn-group">
+                            <a asp-controller="Club" asp-action="Detail" asp-route-id="@item.Id" type="button" class="btn btn-sm btm-outline-secondary">View</a>
+                            <button type="button" class="btn btn-sm btm-outline-secondary">Edit</button>
+                        </div>
                     </div>
                 </div>
             </div>
