@@ -85,3 +85,5 @@ C:\Users\mafon\source\repos\RunGroop\RunGroop\obj\Debug\net6.0\refint\RunGroop.d
 C:\Users\mafon\source\repos\RunGroop\RunGroop\obj\Debug\net6.0\RunGroop.pdb
 C:\Users\mafon\source\repos\RunGroop\RunGroop\obj\Debug\net6.0\RunGroop.genruntimeconfig.cache
 C:\Users\mafon\source\repos\RunGroop\RunGroop\obj\Debug\net6.0\ref\RunGroop.dll
+C:\Users\mafon\source\repos\RunGroop\RunGroop\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\mafon\source\repos\RunGroop\RunGroop\bin\Debug\net6.0\Newtonsoft.Json.dll
